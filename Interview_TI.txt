@@ -1,0 +1,1657 @@
+Super, alles klar. Du hast nämlich aber auch schon den Punkt angesprochen mit der KSW-Suche und ein großer Block, den wir sehr gerne einmal beleuchten würden, wäre tatsächlich auch, dass du uns vielleicht, wenn es dann möglich ist, ein Beispiel KSW zeigst, uns da einfach mitnimmst.
+Wo fängst du an? Das heißt, du stehst morgens auf, bist auf der Arbeit und öffnest einmal deinen Auftrag. Wo beginnst du? Vielleicht können wir da einmal mit, keine Ahnung, deinen Klicks etc. das Ganze mitverfolgen. Das wäre super, wenn wir vielleicht auch ein paar Screenshots mitnehmen könnten. Einfach ein Beispiel KSW und wir begleiten dich bei deiner Arbeit.
+Ich übertrage einfach mal meinen Arbeitsvorrat. Das wäre das, was ich mir morgens als Erstes zeige.
+Ich muss euch nur wieder auf die andere Seite holen, dass ich euch sehe. Also das wäre jetzt quasi mein Arbeitsvorrat. Das Einzige, was ich da tue, ist die Maske öffnen und hier oben auf das Generieren drücken. Also das ist eigentlich relativ einfach.
+Ich weiß nicht, wie weit ihr da in die Tiefe gehen wollt mit den Farbmarkierungen, mit den Stati. Ich denke, da wird euch ja Kai oder Tobias auch schon was zu erzählt haben. Also das wäre jetzt mein Arbeitsvorrat.
+Der ist sortiert.
+Der ist sortiert nach KSW 97 Termin. Das sieht man hier oben an dem kleinen Pfeil. Das heißt, das wäre die Rückmeldung vom Testdruck Richtung Vertrieb. Also mein täglich Doing wäre dann jetzt quasi von oben nach unten die Liste im Idealfall abzuarbeiten. Das ist eine romantische Vorstellung. In der Regel wird die Liste nicht kleiner im Laufe des Tages. Das ist sehr, sehr selten.
+Vielleicht verschwindet mal ein, zwei, drei Aufträge.
+Aber in der Regel zieht das immer noch Schleifen mit sich, die halt gemacht werden müssen, auch um den Auftrag dann auch zu Kundenzufriedenheit zu erledigen. Und das ist halt nicht innerhalb von drei Klicks oder vier Klicks erledigt.
+Ich persönlich, weiß nicht, wie es die Kollegen machen, habe mir hier die erste Zeile Auftragstext notiert. Dort kann ich mir, wie man es ja hier sieht, kann ich mir Informationen ablegen.
+Die jetzt nicht direkt mit dem Auftrag dann oder im Auftrag erscheinen, dass der Kunde das sieht. Das sind einfach nur Informationen für mich, weil dieser Auftrag hier zum Beispiel UAB Roter Bus, der ist da die ganze Zeit. Den sehe ich immer. Und damit ich da nicht immer reinklicken muss und zu gucken, was ist denn da noch offen, schreibe ich mir persönlich die Informationen hier immer mit rein. Das ist ein einfaches Textfeld. Wenn ich draufklicke, geht es auf.
+Ich weiß nicht, seht ihr das Fenster, was jetzt aufgegangen ist? Wahrscheinlich nicht.
+Ja, doch, doch. Wir sehen das Fenster.
+Und hier könnte ich jetzt einfach beliebige Informationen reinstellen und die würden dann hier in dem Text erscheinen. In dem Feld.
+Ist für mich einfach nur eine Arbeitserleichterung, damit ich pro Tag nicht vier oder fünf Mal in den Auftrag reingucke. Oder im Umkehrschluss, wenn ein Nachtsack kommt und hier steht elektrikoffen, wäre es für mich als Aufbauer kein Thema.
+Natürlich gucke ich rein, weil es könnte ja durchaus ein Nachtsack auch noch zu Aufbau gekommen sein. Aber ich weiß, woher der KSW 04 oder die ZBK.
+Ich weiß nicht, wozu da, welches Thema da noch am Hängen ist. Das sind so die Sachen, die als erstes ins Auge gehen und dann gehe ich einfach her und arbeite von oben nach unten die Aufträge ab. Je nachdem, was zu tun ist. Das ist unterschiedlich, wie gesagt. Das können Nachträge sein vom Vertrieb zu dem Auftrag. Das können Rückmeldungen, geht nicht Rückmeldungen aus den Entwicklungsfachteams sein.
+Die da gekommen sind. Also das kann verschiedene Ursprünge haben an der Stelle.
+Also das heißt, du hast jetzt dann einen Auftrag aufgemacht?
+Genau.
+Genau. Ich schalte das einmal schnell. Genau. Okay.
+Das wäre jetzt hier quasi die globale Auftragsmaske. Hier habe ich sämtliche Informationen, was die Termine betrifft. Hier der 7.8. als Rückmeldung 97.
+Dann 99 kommt es dann als Echtauftrag bei uns in den Leitstand KSW 06. Also sprich, wenn wir fertig sind, der Termin und KSW 01, wenn die Mitteilungen von den Entwicklungsfachteams fertig sind.
+Plus, wer es bearbeitet. Das ist der erste Step. Wenn jetzt neue Aufträge reinkommen, dann trage ich mich hier oben mit meinem Username ein und der Elektrik-Kollege ebenfalls.
+Und in dem Fall Aufbau-Datum heißt.
+Wenn jetzt der Testauftrag erledigt, also sprich, sämtliche Umfänge sind delegiert in die Fachteams, dann tragen wir beide uns aus. Also sowohl Elektriker als auch ich.
+Das heißt, jeder, der reinguckt in den Auftrag, weiß, wir haben den Auftrag zu Ende bearbeitet. Den Testauftrag muss ich sagen, zu Ende bearbeitet. Und der geht jetzt seinen Weg in den Fachwerks.
+Also das heißt, wenn du jetzt einen Auftrag bei dir siehst, du bearbeitest den dann erstmal als Testauftrag?
+Das hatten nämlich auch der Tobias und der Kai uns auch so gestern mitgeteilt. Genau. Und wenn du dann den Testauftrag richtig delegiert hast, dann passiert was?
+Dann ist der Auftrag für mich erstmal verschwunden. Also normalerweise wäre jetzt hier der 49er wäre ein NE, also nicht entwicklungsrelevant.
+Und wenn ich jetzt nochmal zurück auf die Maske gehe, wenn ich jetzt mal den Filter rausnehme. Also es gibt einen Filter, den ich mir gesetzt habe. Es gibt einen Global.
+Es gibt einen Filter, der für alle Leitstandskollegen eigentlich gleich ist. Es gibt da ein paar individuelle Vorlieben, die jeder hat.
+So wie ich hier mit meinem Feld, was ich mir hier eingeblendet habe. Aber wenn ich den Filter jetzt mal lösche, dann sehen wir sämtliche Aufträge, die eigentlich von mir, warum der Kollege hier auftaucht, das weiß ich nicht.
+Aber alle Aufträge von mir plus die, die im Preview sind, also die jetzt noch nicht vom Vertrieb bearbeitet worden sind, die sind hier zu sehen. Und auch die Aufträge, die jetzt in Bearbeitung sind.
+Der ist auf 43, also 43 ist der Status delegiert. Den habe ich gestern fertig gemacht.
+Und wenn ich jetzt da drauf gehe, dann sieht man es vielleicht ganz schön, der ist in meinem Arbeitsvorrat gar nicht vorhanden.
+Der würde dann wiederkommen, wenn sämtliche Entwicklungskollegen zurückgemeldet haben, ist baubar oder das und das müsst ihr noch ändern etc. pp.
+Dann würde er bei mir wieder aufschlagen. Oder ein anderes Szenario ist, mein Chef sagt mir Bescheid, Mensch, da ist zwar noch was offen, aber der ist terminlich eng.
+Bitte, bitte.
+Meldet ihn an den Vertrieb zurück. Und hier sieht man es ganz schön, hier ist jetzt nichts offen. Hier ist der Prüfung, Dekodierung ist auch nicht entwicklungsrelevant.
+Und insofern sehe ich jetzt hier beim Status 47 ist es in dem Fall, wenn ich jetzt aktualisieren würde, würde ich ihn wiedersehen.
+Aber wenn er Status 43 hat, wäre er bei mir aus der Liste verschwunden.
+Und dort würde ich mich auch erst wieder damit beschäftigen, wenn jetzt wie in dem Fall dann ein 47er gekommen ist.
+Also das heißt, wenn etwas dann rückdelegiert.
+Also das heißt, da gibt es dann irgendwas im Echtauftrag ist das dann aber auch der Fall.
+Das heißt, ihr habt dann schon einen Testauftrag weitergeschickt.
+Das heißt, es ist dann schon dabei, ein Echtauftrag zu werden.
+Und da wurden dann Fehler, irgendwelche Sachen, die glaube ich auch in der Codeliste etc. nicht stimmen, dass das dann genau.
+Also sowohl im Testauftrag als auch im Echtauftrag.
+Also da ist die Vorgehensweise gleich.
+Nur, dass wir im Echtauftrag natürlich die Korrekturen direkt mit reinbringen.
+Wenn möglich, also wenn der Vertrieb einen Text anpassen muss, weil er nicht stimmt oder weil ein Bauteil abgekündigt ist oder was halt auch immer, dann ist das schon ein bisschen individuell.
+Ich mache es dann so, um keine Zeit zu verlieren, dass ich dann die Maßnahme schon anfasse und dann dem Vertrieb zurückmelde, bitte pass mir das textlich noch an.
+Und wenn dann der Nachtrag vom Vertrieb ist, muss ich den einfach nur auf erledigt setzen und dann ist das Thema durch.
+Wir verlieren ja.
+Durch die Schleifen verlieren wir ja Zeit, wenn ich es jetzt zurückdelegieren würde an den Vertrieb und würde warten, bis er dann den Nachtrag macht.
+Wir sind unter Umständen schon ein, zwei Tage ins Land gezogen und das wären ein, zwei Tage, wo die Kollegen in der Entwicklung dann schon weitermachen können.
+Ich habe zwischendurch mal eine Frage, das will ich nochmal genau verstehen.
+Mein Verständnis gestern vom Gespräch auch mit Kai war, dass quasi auch bei dem Testauftrag, genauso wie später auch beim Realauftrag,
+das kommt, Vertriebe sind die Ersten, die natürlich dran sind, die auch die Informationen bereitzustellen, halt in Absprache mit dem Kunden,
+dann kommt es zu euch, dann kommt es zur Entwicklung, dann wieder zurück das Spiel und dann ist es ruhig quasi.
+Also einmal zurück zu euch, einmal zurück zum Vertrieb und dann ist im Prinzip der Testauftrag auch abgeschlossen?
+Der Testauftrag wäre dann abgeschlossen, nicht der Auftrag, aber der Testauftrag.
+Der Testauftrag wäre dann abgeschlossen, genau.
+Genau, okay. Also es ist wirklich immer dieses Spiel halt von, es geht einmal in Richtung von euch, dann in Richtung Entwicklung und dann wieder den Weg zurück mit der Bearbeitung.
+Okay. Währenddessen wechseln dann, also das ist auch gerade, was du eben meintest, du hast ja eben von einem Code gesprochen, ab wann ihr dann raus seid,
+das wäre dann quasi halt auch so dieses, es ist übergeben in Richtung Entwicklung oder bleibt ihr dann trotzdem quasi im Lied für diesen KSW noch,
+solange das so ist?
+Oder gebt ihr das wirklich weiter, die Verantwortung und dann kommt es wieder zurück und dann also so entlang dieser Etappen, die ich gerade skizziert habe?
+Also die Verantwortung natürlich liegt dann bei dem jeweiligen Fachteam.
+Also wenn wir delegiert haben, dann haben wir nach bestem Wissen und Gewissen, so nennen wir es mal, die Texte angepasst und für Konstrukteure verständlich formuliert und dementsprechend halt andelegiert.
+Also dass derjenige dann weiß.
+Und dann ist es halt die einfache Kette, die haben x Arbeitstage Zeit, das Ganze zu prüfen, ob es umsetzbar ist oder ob es irgendwelche Änderungen geben muss und dann kommt es zu Zeitpunkt x wieder zurück zu uns und dann sind wir wieder und überprüfen das Ganze natürlich.
+Das ist immer noch ein ganz nettes Vier-Augen-Prinzip, dass wir sowohl den Vertrieb als auch die Kollegen von der Entwicklung, ich will nicht sagen kontrollieren, weil das ist ein böses Wort, es ist auch kein Kontrollieren oder kein Gucken, ob die da nicht,
+irgendwas vergessen haben, aber wir haben halt als KSW-Leitstatt den Gesamtüberblick über den Auftrag, was die Fachteams ja gar nicht haben können.
+Also ich sage mal, der Halte-Stangen-Konstrukteur, der weiß vielleicht idealerweise noch, wie die Bestuhlung aussieht, aber der weiß jetzt nicht, was am Fahrerarbeitsplatz passiert, was bei den Türen passiert etc.
+Also wir haben als KSW-Leitstatt den Gesamtüberblick über den Gesamtauftrag und deswegen prüfen wir die Rückmeldung natürlich, ob das, was die Kollegen zurückgemeldet haben, das ist eine gute Idee.
+Also das heißt, wenn du von einem Gesamtauftrag sprichst, dann sind das ja verschiedene KSWs, die im Auftrag enthalten sind, oder?
+Ja, genau. Nicht nur KSWs, sondern auch, ich sage mal, die Code, die vom Vertrieb angewählt wurden oder halt auch nicht. Also wie das Gesamtfahrzeug dann am Ende aussehen soll.
+Zum einen KSWs, zum anderen Seriencode, also Zwangscode, die über gesetzliche Vorschriften kommen.
+Etc. pp. und ich sage mal, der klassische Halter vorne auf der Brüstung, den der Kunde jetzt für sich haben möchte, weil der Fahrer eine Möglichkeit haben soll, auf einem Block irgendwas zu schreiben.
+Das ist jetzt eine einfache Darstellung, da gibt es auch viel, viel komplizierter, ob er eine große Klimaanlage haben will, eine kleine Klimaanlage, keine Klimaanlage.
+Da hat er ja eine gewisse Wahl und eine gewisse Auswahl und das spiegelt sich dann halt auch in den Auftragscoden wieder.
+Okay.
+Okay. Können wir uns vielleicht einmal mit dir gemeinsam anschauen, wie du denn so einen Testauftrag durchgehst?
+Also einfach, du hast jetzt einen Auftrag vom Vertrieb bekommen, also dein Testauftrag vom Vertrieb ist bei dir angekommen. Wie gehst du denn da Schritt für Schritt vor?
+Also wir haben, wie gesagt, ja auch schon mit Tobias und Kai gesprochen. Wir haben einmal erfahren, dass es ja dann wirklich um die Feinformulierung der KSWs geht, damit dann die Entwicklung damit arbeiten kann.
+Könntest du uns da vielleicht einmal mitteilen?
+Ja, das würde ich gerne mitnehmen, was du da alles anklickst, wonach du suchst, weil es gibt ja auch die Möglichkeit, nach verschiedenen Kriterien zu filtern.
+Wir haben uns jetzt bisher immer angeschaut, nach KSW-Maßnahmen zu filtern und ein Riesenproblem, was uns da bisher zugetragen wurde, war auch, dass es einfach viel zu viele KSW-Maßnahmen gibt, die dann am Ende durch das System rausgespuckt werden.
+Also dass wenn ihr jetzt beispielsweise nach Ähnlichem sucht, dass es dann gleich 20 gibt.
+Die dann angezeigt werden. Genau, dass wir vielleicht da einmal mitgeführt werden in deiner täglichen Arbeit.
+Ja, also wir gucken jetzt genau auf die Suche. Also jetzt nicht, was ich von Anfang bis Ende mache, sondern eher dann auf die Suche.
+Also wenn ich jetzt zum Beispiel, das ist ein ganz gutes Beispiel, weil das katastrophal läuft bei uns im Betrieb, dass wir die USB-Doppelladesteckdosen,
+also das sind die USB-Steckdosen, die im Fahrzeug verteilt sind.
+Die Kunden zum Laden von Handys etc. pp. dann verbaut werden.
+Und wenn ich jetzt, und das sieht man schon, also wir sehen ja hier die Einfärbung, das wäre Index Plus, das wäre Index und keine Einfärbung heißt, dem System ist jetzt erstmal nichts bekannt an Bauzustand, was dementsprechend würde, was der Kunde hier haben möchte an KSW.
+Also das heißt, hier wäre ein nackiger KSW, den ich jetzt, wo ich jetzt selber recherchieren müsste, haben wir da schon mal irgendwas dergleichen.
+Und das, seht ihr die Maske, die aufgegangen ist, weil ich nur das extra übertrage?
+Ja.
+Okay, perfekt. Also das wäre jetzt die Suche. Wir haben bei uns den Maßnahmen-Nummernkreis HKB 103 Sternchen. Sternchen heißt, dass dahinter noch Zahlen kommen können.
+Und ich glaube, Ulm ist 203. Also die arbeiten ähnlich, die haben halt nur einen anderen Nummernkreis.
+Also die ersten drei.
+Also die 103 sagen, also die 103 sagt, ist Mannheim und beschäftigt sich mit dem C2.
+Dann habe ich hier die Möglichkeit, das Baummuster noch einzuschränken. Also in dem Fall haben wir ein Gelenkfahrzeug.
+Das hier unten. Also das heißt, ich könnte jetzt die Suche noch einschränken auf Gelenk, was in dem Fall Sinn macht, weil eine USB-Steckdose, die im Hinterwagen an der Haltestange sitzt, die wird nicht im Vorderwagen zu finden sein.
+Okay.
+Das heißt, in dem Fall macht es durchaus Sinn, hier das Baummuster vorzugeben.
+Ich müsste jetzt gar nicht auf den E-Citaro-Gelenk gehen, sondern ich könnte auch noch weiter abkürzen und könnte sagen, und da fängt es halt schon an, da wüsste ich jetzt nicht, wie ich das machen sollte, dass ich jetzt sowohl im Diesel als auch im E-Citaro suchen kann, weil das wäre in dem Fall erstmal egal, um eine Referenz zumindest mal zu bekommen.
+Mhm.
+So, also hier schränke ich.
+Ich schränke hier natürlich das Baummuster ein und das Einzige, was ich jetzt hier machen kann, weil wie gesagt, die Positionen von den USB-Steckdosen, die sind so individuell.
+Ich kann hier nur schauen nach 25 mal USB und das kann ich auch nur machen, weil wir uns im Leitstand irgendwann mal dazu committed haben, wenn wir USB-Doppelladesteckdosen als KSW delegieren, dann schreiben wir immer die Anzahl ohne Leerzeichen mal und dann Leerzeichen USB minus Doppelladesteckdose.
+Mhm.
+So, das heißt, ich könnte jetzt sämtliche, wenn ich jetzt hier unten aufschreibe.
+Auf weiter drücke, dann würde er in dem Fall sogar nur drei ausspucken, weil so eine hohe Anzahl an USB-Steckdosen relativ selten ist, aber wenn wir jetzt beim Solo sind, da haben wir von acht bis oder von vier bis 20 zig Varianten und hier würde man jetzt sehen, dass der Text, nach dem ich gesucht habe, der ist immer blau eingefärbt.
+Mhm.
+Dass man das so ein bisschen unterscheiden kann und ich habe dann hier oben den Knopf Delta-Vertriebstext.
+Das wäre jetzt mal der nächste.
+Halt, fangen wir mal, ich weiß nicht, inwieweit Kai und Tobi das gesagt haben.
+Hier oben haben wir unsere drei Maßnahmen, die mit meiner Suche übereinstimmen und dann haben wir aufgrund, einfach um es auch sichtbar zu machen, hier die Möglichkeit, dass die einmal die Code leistet.
+Also, dass die Code-Regel, Entschuldigung, die hier oben steht, dass die auf das Fahrzeug zutrifft, also, dass ich sie nur auf der Code-Basis benutzen könnte.
+Und das wird automatisch schon geprüft, das hatte Kai uns auch schon mal gezeigt nach dem Ampelsystem.
+Genau, und das gleiche gilt für das Baumuster, ob es für das Baumuster umgesetzt worden ist und das Text-Data heißt, wenn der Text jetzt eins zu eins identisch wäre, das ist wirklich ein reiner Textvergleich.
+Also, der muss wirklich identisch sein.
+Wenn ein Absatz, ich sage mal, wenn man jetzt rechte Seite und linke Seite einfach vertauschen würde, dann, also der Inhalt gleich, aber der Text unterschiedlich, dann würde er hier trotzdem rot machen, weil das einfach, ich sage mal, der stupide Text-zu-Text-Vergleich ist.
+Und der wäre hier in dem Fall rot.
+Das heißt, ich würde jetzt hier oben aufgrund der gültigen Code-Regel und Baumuster, würde ich mir jetzt hier in dem Fenster den Vergleich anschauen.
+Eine kurze Frage dazu.
+Also, weil wir hatten, ich weiß nicht mal, ob das bei Kai oder bei Tobias war, du hast ja eben den rein stubiden Text-Vergleich so angemerkt.
+Das heißt, wenn der Text jetzt auf Türkisch wäre, was ja auch unter anderem vorkommt, dann gibt es da erstmal keine Übereinstimmung, obwohl es inhaltlicher eigentlich passen könnte, oder?
+Aber ich glaube, aufgrund Baumuster-Unterschiede wäre bei uns im Aufbau zumindest da auch nichts möglich.
+Also, ich habe in meinem ganzen Leben hier noch keinen türkischen KSW gesehen.
+Okay.
+Also, ich habe schon türkische Texte gesehen und ich habe auch schon türkische KSWs gesehen, aber nicht, dass das hier angezeigt wird.
+Weil, wie gesagt, das war das, was ich eingangs gesagt habe.
+Wir in Mannheim mit dem Citaro arbeiten mit dem Nummernkreis HKB 103.
+Und dadurch, dass ich das darauf schon reduziere, bekomme ich natürlich auch nur Maßnahmen angezeigt, die bei uns in Mannheim schon verwendet worden sind oder angerichtet worden sind.
+Ich weiß nicht, was die türkischen Kollegen für einen Nummernkreis haben.
+Ich weiß nur, dass die Ulmer den 203 benutzen.
+Also, das heißt, die sprachliche Barriere bei der Textüberprüfung, die hast du jetzt erstmal nicht?
+Nein.
+Okay, das ist gut.
+Ja, und blau geheiligt sind jetzt hier genau die Unterschiede auf beiden Seiten.
+Also, dass man halt auch schneller durchgehen kann und sehen kann, okay, was ist wirklich anders?
+Ja, in der Theorie schon.
+Und hier scheint es auch relativ gut zu passen.
+Aber hier sieht man zum Beispiel...
+Hier steht Seitenwand und hier würde auch Seitenwand stehen.
+Und hier steht aber noch Drehkranz dahinter.
+Und da schmeißt das schon den Unterschied aus.
+Also, ich sage mal, vor zehn Jahren hätten wir wirklich links eine Word, rechts eine Word, würden die Texte nebeneinander packen und würden dann ein 1 zu 1 Textvergleich machen und gucken, ob da nicht irgendwo ein Spielverderber mit drin ist.
+In dem Fall müsste man das genauso machen.
+Man müsste überlegen, wo passen die Positionen.
+Weil, ihr seht es ja auch hier schon, hier ist einmal der Sitz angegeben mit der Positionierung A21, B21.
+Das ist ein definierter Sitz im Fahrzeug, wo diese USB-Steckdose hinkommt.
+Und hier sagt er einfach, zweimal zwischen Vis-a-Vis-Sitzen nach Vorderachse.
+Also, rein theoretisch müssten wir jetzt hingehen und sagen, wir prüfen, ob der Sitz nicht sogar dem entspricht.
+Ich würde aber so viel Zeit fressen, dass wir schon sagen, wenn der Text nicht...
+Wenn der Text nicht übereinstimmt, nehmen wir eine neue Maßnahme und delegieren sie nach oben.
+Ist aber, wie gesagt, das ist hier wirklich ein spezieller Fall mit den USB-Steckdosen, weil das so individuell pro Kunde ist, dass wir aus Erfahrung schon wissen, dass die Chance, wenn man einen neuen KSW hat, dass man dort was findet, relativ gering ist.
+Ich habe da noch eine andere kurze Frage.
+Und zwar, du hattest ja gesagt, dass du die Anzahl der Steckdosen ja auch einträgst.
+Also, das heißt, wenn du jetzt irgendwie nach einer Maßnahme suchst, du aber kein passendes rausgespuckt bekommst, weil einfach kein Index hinterlegt ist, dann fügst du ja deine Kriterien selber ein.
+Und du hast ja jetzt bei der Anzahl der Steckdosen, die du eingetragen hast, auch, ich sage mal, Regeln beachtet.
+Das mit dem Leerzeichen und keine Ahnung, was vielleicht auch groß oder klein geschrieben werden muss.
+Ist das?
+Ist das etwas, was bei euch wirklich verankert ist, was dann wirklich als allgemeingültige Regel gilt?
+Oder ist das etwas, was ihr dann im Leitstand untereinander schon mal abgemacht habt?
+Also, das ist wirklich eine Sache, die wir im Team dann im Team-Meeting oder aufgrund eines Problems, was mal entstanden ist, dann festlegen für uns.
+Und da hält sich eigentlich auch jeder dran.
+In dem Fall macht es das nicht besser.
+Es gibt auch Beispiele, die durchaus komplexer sind, wie so ein TFT.
+Und KSW, wo es dann schon schwierig ist, eine einheitliche Vorgehensweise zu verabschieden, gerade weil das an der Stelle recht frustrierend ist,
+wenn man sich die Mühe macht und die ganzen Sachen nach Vorgabe umsetzt und das Fachteam dann trotzdem auf 47 zurückmeldet,
+weil der, ich sage mal, der Monitor gar nicht mehr lieferbar ist.
+Deswegen, es gibt zu bestimmten KSWs Vorgaben, die wir für uns festgelegt haben, um eine einheitliche Struktur,
+um dann natürlich dann im Nachgang auch besser suchen zu können.
+Aber das klappt halt in der Regel nur bei den KSWs, ich sage mal, wo ich immer die gleichen Informationen brauche.
+Wie viele TFTs, an welcher Stelle soll der TFT, was für Randbedingungen, soll er noch eine Antenne bekommen, was für eine Steuerung hat der TFT.
+Also, das sind immer Pflichtangaben, die ich vom Vertrieb benötige, um den KSW umzusetzen.
+Ich habe noch eine Frage zu dem Textvergleich jetzt hier, weil du hast ja gerade eben schon Unterschiede auf Unterschiede aufmerksam gemacht,
+auch jetzt gerade zum Beispiel, was die Sitzposition angeht.
+Mir fehlt gerade noch so ein bisschen das Gespür für, da guckt jetzt einer von euch drauf und sagt,
+scannt das quasi durch und sagt, ja, das passt, auch wenn jetzt hier der Unterschied da ist.
+Oder wie oft es eigentlich eher ist, dass man wirklich genau dann in diese zwei nachgelagerte Recherche,
+ich muss das genau rausfinden.
+Also, was hier wirklich so passen kann, ist halt, wenn ich stelle vor, irgendwie so ein bisschen was von beidem ist wahrscheinlich drin,
+dass ihr einfach aus Erfahrung sagt, eigentlich, wir wissen genau, was die meinen halt,
+auch wenn das jetzt hier irgendwie nicht sauber beschrieben halt ist, versus, oh nee, da müssen wir genau nachhaken,
+weil das ist einfach nicht korrekt und da müssen wir vielleicht sogar recherchieren und Zeit investieren, um das genau herauszufinden.
+Ja, also, wie gesagt, USB ist da wirklich eine schlechte...
+schlechtes Beispiel, das ist jetzt wirklich halt nur
+um den Arbeitsablauf ein bisschen
+darzustellen. Ich glaube, TFT
+wäre da das deutlich bessere
+und ich glaube, wenn wir einfach mal den
+TFT hier mal anmachen,
+den habe ich zwar schon fertig,
+der müsste
+einfach mal,
+wenn wir jetzt hier mal den Delta-Vergleich
+aufmachen, dann sehen wir ja, dass da auch
+blau ist und das
+wäre jetzt genau der Fall, den du gerade geschildert hast.
+In dem Fall weiß ich,
+weil ich da die Maßnahme auch angelegt
+habe,
+dass der technisch
+identisch ist.
+Also selbst wenn
+andersrum
+in der Geschichte würde ich jetzt auf den
+Vertrieb nicht sagen, Achtung, schreibt mir bitte den
+KSW um, weil am Ende will der
+Kunde ja in seinen KSWs
+auch das wiederfinden, was er in seinem Lastenheft
+oder beim technischen Gespräch definiert
+hat. Deswegen möchte ich
+bei vielen Sachen gar nicht, dass
+der Vertrieb den Text
+anpasst. Der würde beim nächsten Mal auch
+über den Index bei uns
+im Auftrag erscheinen, dass selbst wenn ein anderer
+Kollege den Auftrag bearbeiten würde,
+dass er meinen KSW dazu auch finden
+würde. Nur in dem Fall habe ich mir
+die Mühe gemacht und habe es halt strukturiert
+runtergeschrieben, so wie unsere Vorgehensweise
+beim TFT ist.
+So wie wir es auch mit
+dem Fachbereich abgestimmt haben, wie wir
+TFTs drüber delegieren, das ist
+technisch aber eins zu eins
+gleich zu dem, was der Vertrieb
+hier in seinen Text beschrieben hat.
+Wenn du jetzt ein bisschen
+pauschalisierst, ist
+eher der
+TFT-Monitor
+der Standard
+oder ist eher so
+USB, man muss genau
+wirklich nachgucken, wie
+wirklich die Anforderungen sind. Eventuell muss halt
+der Auftrag
+da angepasst werden.
+Was ist da eher so prototypisch?
+Also ist wirklich, also
+nur um so ein Gefühl darin zu kriegen, auch wenn es
+vielleicht schwer ist, das so zu pauschalisieren.
+Das ist schwer in Prozenten auszudrücken.
+Ich würde mal sagen, das hält sich die Waage.
+Wir haben schon sehr viele Wiederholaufträge,
+also die wirklich eins zu eins mit
+vielleicht geringfügigen
+Änderungen bei uns wieder reinkommen.
+Der ist natürlich dann relativ leicht und wir haben keine
+Änderungen im Vertrieb. Wir haben
+jetzt aber auch Aufträge, so wie den jetzt
+hier, das ist komplexer Auftrag,
+so würde ich ihn jetzt mal bezeichnen, wo
+man halt auch genauer in die
+Recherche gehen muss
+und sollte,
+was das Thema angeht. Also gerade
+vergleichbare KSWs
+ist halt am Ende dann auch wirklich
+nur über Genie zu machen, weil
+ich hier
+nicht die Möglichkeit habe, die ich jetzt
+in Genie habe. Und es ist auch durchaus frustrierend,
+weil die Wartezeiten in SAP halt unendlich lang
+sind. Also gerade
+wenn es jetzt zum Ende der Woche, ich habe so den Eindruck,
+das wird über die Woche immer langsamer
+und das ist dann schon nervig, wenn
+ich für jede Suche,
+ich sage mal, eine Minute brauche,
+bis mir überhaupt Ergebnisse angezeigt werden.
+Und da kann es auch sein, dass ich mal einen
+Steilfehler habe, dass ich einfach einen
+Zahlendreher drin habe und drücke auf Enter und er sucht
+und ich kann es auch nicht unterbrechen, ohne dass mir
+die komplette Maske abschmiert.
+Das heißt, ich warte dann die Minute, bis ich dann
+die Ergebnisse anzeige, die natürlich nichts bringen,
+weil ich mich verschrieben habe und fange
+dann wieder von vorne an. Also das ist,
+ich glaube, in der Suche steckt wirklich
+eine Menge Potenzial,
+was die KSW-Recherche
+angeht. Weil wir,
+ich sage mal, wirklich von Outlook über
+Genie über
+SAP
+sämtliche
+Möglichkeiten nutzen, um nach KSWs
+zu suchen oder nach
+Vorgehensweisen, die wir für uns verabschiedet haben.
+Wenn wir irgendwelche Sachen im
+Teammeeting festlegen, dann steht es im besten Fall
+im Protokoll. Da muss ich aber das Protokoll durchsuchen.
+Was haben wir denn zu dem Fall gesagt, was ich machen muss?
+Das kann man ja alles gar nicht irgendwann mehr im Kopf
+haben, sondern ich muss
+da recherchieren und dann
+mache ich mich im Idealfall auf die Suche,
+dann in SAP oder über Genie.
+Also das sind mehrere Suchvorgänge,
+die dann manchmal zum Glück führen oder auch nicht.
+Es kann auch komplett für die Katz sein,
+dass ich nach einem KSW
+recherchiere, weil ich meine,
+den schon mal gehabt zu haben und ich finde
+ihn partout nicht,
+dann habe ich unter Umständen
+auch schon mal eine Viertelstunde, eine halbe Stunde in den Sand
+gesetzt. Das ist
+halt leider so.
+Bringt der Job halt so mit sich, ja.
+Aber vielleicht eine kurze Frage, was suchst du denn
+im Outlook? Das kann ich mir noch nicht so ganz vorstellen,
+weil bisher haben wir eigentlich so SAP
+soweit verstanden, weil ihr einfach nach
+verschiedenen Kriterien suchen könnt.
+Es gibt die Kundenschaltpläne, die ja auch
+abgelegt sind.
+Aber wonach suchst du dann konkret
+im Outlook? Sind das dann
+Gespräche?
+Gar nichts jetzt mit eurer Suche
+zu tun, sondern einfach nur,
+das ist, ich sage mal, ein Punkt, wo ich Zeit
+verliere.
+Es gibt Vereinbarungen zwischen
+KSW Leitstand und Fachteam und zwischen
+KSW Leitstand und Vertrieb.
+Wo wir natürlich
+darauf achten müssen, dass die eingehalten werden.
+Also jetzt zum Beispiel ein Beispiel. Es gibt
+die neuen Batterien
+für den neuen Bus, die neue Generation
+und die werden nur
+in den Auftrag gebracht über
+den Vertrieb, wenn der Code im
+VHB, also im Konfigurator
+für den Bus anwählbar ist.
+Und jetzt kommen die KSWs,
+weil sie es halt nicht anwählen können
+und wir haben für uns gesagt,
+wir setzen diese
+Sachen aber nicht über KSW um.
+Da müssen,
+die Kollegen vom Vertrieb warten,
+bis der Code im Konfigurator
+freigeschaltet ist
+für die Kollegen.
+Und das weiß ich natürlich, weil ich es im Hinterkopf habe.
+Es gibt aber durchaus
+auch Verabredungen, die man getroffen hat,
+die schon ein halbes Jahr, ein Jahr oder zwei
+Jahre zurückliegen und die lange nicht gekommen sind.
+Und wenn man im Idealfall
+hat man im Hinterkopf, Mensch, da war doch was
+und dann muss ich halt anfangen, wo habe ich es niedergeschrieben?
+Steht es im Protokoll,
+im Teamprotokoll, steht es im Outlook?
+Das sind eher so Sachen,
+die ich dann da
+suchen muss, bevor ich
+es halt, also ich will ja ungern
+die Entwicklung beschäftigen, wenn ich es nicht
+machen darf, sollte,
+weil es anders verabredet ist.
+Das kommt dann halt noch on top
+zu der Suche, zu der
+eigentlichen Suche des KSWs
+muss ich halt
+immer mal wieder schauen, wie war da die
+Vereinbarung zwischen den
+Prozesspartnern.
+Okay.
+Das will ich gerade noch mal
+irgendwie genau verstehen.
+Also das Beispiel mit der neuen Batterie,
+die ist jetzt noch nicht im Konfigurator,
+der ja wahrscheinlich vom
+Vertriebler oder Kunden oder beiden genutzt
+wird.
+Und wie kommt jetzt
+aber trotzdem eine Anforderung
+zu einer wirklich
+neuen Batterietechnologie oder so
+hinzu?
+Kommt das vom Kunden dann trotzdem halt,
+dass er sagt, ich kann das zwar nicht auswählen
+oder der Vertrieb kann das nicht einpflegen,
+aber ich will das trotzdem haben?
+Ja, das sind interne Prozesse,
+die das momentan verhindern.
+Also da kann der Kunde nichts zu.
+Der Kunde hat gesagt bekommen, weil wir
+ja, beziehungsweise die Verkäufer ja auch
+recht gut informiert sind, wann wir
+unsere Termine haben. Also sprich
+mit Ausliefertermin XY
+kannst du die Batterien XY
+bekommen. Da kann der Kunde nichts zu,
+wenn er dann sagt, ja gut, dann liefert mir die
+Busse zwei Monate später und
+dafür nehme ich halt die neue Batteriegeneration
+und dann
+sind die halt im Auftrag. Das ist
+eher internes
+Problem, dass wir
+oft nicht so schnell sind, wie es
+der Kunde dann bei seiner
+Bestellung ist.
+Also das sind alles
+interne Querelen, die gehen auch nicht zum Kunden
+raus. Da schlagen wir uns
+mit den Prozesspartnern rum,
+wie wir da vorgehen. Aber da sind halt
+auch eine Menge Leute beschäftigt, um da
+die Vorgehensweise zu klären, wie es denn
+zu laufen hat.
+Und das ist in dem Fall relativ einfach, weil wir das
+erst vor zwei, drei Wochen besprochen
+haben. Aber es gibt durchaus Themen,
+die Monate zurückliegen
+oder Jahre zurückliegen,
+die auch immer funktioniert haben und dann
+aus welchen Umständen auch immer
+landet dann plötzlich wieder ein KSW im Auftrag,
+den wir vor zwei Jahren
+schon immer abgelehnt haben. Und da müssen
+wir das entweder im Hinterkopf haben
+oder halt
+suchen, ob da
+nicht vielleicht irgendwas gewesen ist.
+Im Idealfall
+wir haben die Möglichkeit,
+hier unter Bemerkung
+Leitstand dann solche Sachen auch
+als Informationen niederzuschreiben.
+Also wenn es jetzt, ich sag mal, die klassische
+HKB, also die klassische Maßnahme
+ist, die delegiert wird
+und wir bekommen jetzt vom Fachteam gesagt,
+Achtung, aus dem und dem und dem Grund könnt ihr
+das jetzt nicht mehr verbauen, dann
+können wir die Maßnahme sperren
+und eine dementsprechende Information
+hier in Bemerkung Leitstand schreiben,
+sodass der Kollege,
+wenn der KSW
+so nochmal auftauchen sollte,
+im Auftrag und er über
+den Index diese Maßnahme angezeigt
+bekommt, dass er natürlich dann sofort weiß,
+Achtung, das Thema ist gesperrt, das muss ich
+zurückmelden, das geht so nicht mehr.
+Aber in der Rubrik
+Bemerkung Leitstand, da hatten wir bisher auch
+mitbekommen, dass er dann auch Bauteilabkündigungen
+reinschreibt,
+keine Ahnung, dass die Historie vielleicht
+auch nochmal so ein bisschen deklariert wird
+und dann kann man auch reinschreiben,
+dass der Auftrag
+einfach nicht weiterverarbeitbar ist.
+Das sind dann die drei wichtigsten Punkte,
+die dann noch dazugehören.
+Genau, also nicht den Auftrag, sondern die Maßnahme.
+Die Maßnahme darf nicht mehr weiterverwendet werden.
+Ja, okay.
+Also das heißt,
+du fügst dann einmal
+die Beschreibung der Schaltpläne
+etc. ein, dann
+gehst du einmal die relevanten
+Codes durch, die du ja
+für den Vertrieb dann mitdefinieren musst, ob es halt
+überhaupt passt oder nicht passt und
+das ist aber auch eine Anmerkung, die
+definitiv rein muss. Das heißt, da entscheidet
+jetzt nicht der Leitstandmensch
+selber mit, hey, das füge ich jetzt
+auch nochmal extra on top mit rein oder nicht,
+sondern das muss auf jeden Fall kontrolliert
+werden, ob da auch die Code
+Zusammenstellung passt oder nicht passt.
+Dann,
+genau, welche weiteren
+Punkte schaust du dir denn dann ein?
+Das heißt, du machst dann auch noch die wichtigen Bemerkungen,
+das ist aber dann wahrscheinlich auch der letzte
+Part, den du machst bei deiner
+ganzen Suche, richtig? Aber was
+passiert dazwischen noch? Also was würde
+du dann noch weiter
+kontrollieren, durchsuchen,
+ergänzen, hinzufügen?
+Musst du vielleicht irgendwelche Dokumente
+anhängen?
+Ja,
+es gibt
+natürlich durchaus Dokumente,
+sei es Bilder vom Kunden, weil er es vorher
+bei einem anderen Hersteller
+bekommen hat und jetzt Neukunde bei uns ist
+und zeigt uns, hey, so hat das
+MAN, Volvo, wer auch immer umgesetzt,
+habt ihr sowas ähnliches, dann
+kriegen wir Fotos, die wir
+an die Maßnahme anhängen können,
+das wäre dann hier oben unter dem Reiter
+Anhänger, haben wir hier die Möglichkeit,
+PowerPoints,
+Word-Dateien,
+also alles mögliche,
+PNG, JPEG,
+alles mögliche dran zu hängen, um die Informationen
+natürlich auch dem Fachteam zur Verfügung zu stellen.
+In dem Fall
+würde dann hier
+als Information eine Bemerkung
+Leitstand stellen, siehe Bild Version 0.0,
+also unsere Maßnahmen sind versioniert,
+das wäre jetzt hier die Version 0.0,
+von Teildokument 0.0.0
+und die nächste Verwendung wäre dann
+die Version 0.1
+und dann zählt es hoch und wenn er bei 99 ist,
+dann geht er hier oben auf Teildokument auf 0.0.1
+und fängt dann bei 0.0 an.
+Das wäre die Vorgehensweise,
+das heißt, der Konstrukteur weiß,
+wenn er bei Version 0.0 guckt oder
+auch der KSW-Leitstand-Mitarbeiter
+weiß, wenn er bei Version 0.0 kommt,
+findet er ein Foto, wo irgendwas
+dargestellt ist, Schallplan, was auch immer
+da an Informationen alles
+drin ist.
+Das wäre zumindest eine Möglichkeit.
+Dann gibt es,
+wie man hier oben sieht, KSW-Verbindungen,
+also das sind keine Verbindungen,
+die abgeprüft werden durch System,
+sondern das sind
+mögliche Verbindungen,
+die zusätzlich greifen
+können, aber nicht müssen, sagen wir es mal so.
+In dem Fall
+wäre das, diese
+Maßnahme wäre zum einen
+ohne Nachlauf, also sprich,
+die Anzeige ist
+x Minuten nach Zündung
+immer noch sichtbar,
+entweder mit
+HKBs, die dann zusätzlich
+da drangehängt werden, aber dann muss der
+Vertrieb halt in seinen Vertriebswechsel
+halt auch reinschreiben, Achtung, mit 10 Minuten
+Nachlaufzeit etc. pp.
+Dann wissen wir, wir können diese Maßnahme
+für alle Fälle benutzen,
+müssen dann aber zusätzlich noch
+eine HKB steuern,
+wenn der Kunde Nachlaufzeit haben möchte.
+Das ist jetzt ein relativ
+einfaches Beispiel, das geht natürlich noch
+komplizierter. Ich hätte hier sogar,
+noch ein Beispiel,
+wo es komplizierter ist,
+wenn ich das jetzt noch kurz finde,
+da möchte der Kunde
+einen Mülleimer
+haben,
+nicht?
+Ja, finde ich
+jetzt auf die Stelle nicht, aber in dem Fall ist es
+halt tatsächlich so, dass
+der Kunde einen Mülleimer haben möchte
+an der Tür und das funktioniert
+nur, wenn er die schmale
+Tür drin hat.
+Und das
+sieht man,
+dann nehmen wir den KSW hier oben
+und auch hier unten als Information,
+dass dieser KSW nur umsetzbar ist
+in der Verbindung mit
+dem und dem KSW,
+HKB, Entschuldigung, Maßnahmen.
+Also das sind so Informationen, die wir
+innerhalb des Teams natürlich mit unseren Teamkollegen
+teilen möchten.
+Also da sitzt keiner
+auf seiner Information
+und behält die für sich,
+sondern wir versuchen schon so viel möglich,
+so viel Informationen, die wir auch persönlich
+gesammelt haben, in dem Auftrag so viele
+Informationen wie möglich, relevante
+Informationen wie möglich auch an die Teamkollegen
+weiterzugeben, weil bei uns ja
+die Prämisse ist, dass jeder
+jeden Auftrag bearbeiten kann.
+Und
+bearbeiten
+kann, heißt dann, dass die Texte
+einfach entsprechend verständlich sind und
+eben auch alle Anmerkungen etc.
+beinhalten?
+Das ist sowieso, ich meine, das ist das
+Qualitätsding,
+was wir für uns natürlich dann auch sagen,
+wir wollen ja Qualität sowohl in die eine Richtung,
+als auch in die andere Richtung liefern,
+aber dann auch, wenn irgendwelche speziellen Sachen
+gewesen sind während der Auftragsbearbeitung,
+diese Informationen,
+die für vielleicht einen anderen Aufbauer,
+der das beim nächsten Mal bearbeitet, wichtig ist,
+dann die Informationen auch weiterzuleiten.
+Und deswegen sieht man hier unten auch immer
+diese Texte, das ist jetzt hier nicht so
+informativ, aber nichtsdestotrotz
+geben wir halt
+diese Informationen auch weiter
+von Version zu Version.
+Gerade auch, wenn irgendwelche Änderungen
+sind, weil es kann ja durchaus mal sein,
+dass ein
+bestimmter Kunde einen bestimmten
+KSW hat und die Wahrscheinlichkeit,
+dass diesen KSW noch ein anderer
+Kunde nimmt, ist so unwahrscheinlich,
+dass er wirklich nur für den einen Kunden ist.
+Das heißt, wenn der das nächste Mal kommt und sagt,
+Mensch, lieber Verkäufer, das habt ihr toll
+gemacht beim letzten Mal, aber ich habe da noch eine andere Idee,
+ich möchte das Ding um 45 Grad gedreht
+haben und zwei Millimeter weiter nach rechts,
+dann würde es ja keinen Sinn
+machen, eine neue Maßnahme anzulegen,
+da hätten wir zwei Maßnahmen,
+nur für den Kunden Sinn,
+sondern das wäre dann ein spezieller Fall,
+wo wir sagen würden, ab Version 1
+textlich angepasst auf
+bla bla bla, vielleicht ein Foto dran
+oder eine Information,
+warum das geändert worden ist
+und dann gilt das ab Version 1
+ist dann die Änderung
+so erfolgt, wie der
+Kunde das dann in dem speziellen Fall
+haben möchte. Ich glaube, das ist
+bei den Elektrikerkollegen auch wesentlich häufiger
+der Fall, weil dort die IBIS-Anlagen
+halt sehr speziell auf
+den Kunden
+ausgerichtet sind, das heißt, die haben
+teilweise dann IBIS in
+Ausführung Hamburg,
+in Ausführung Wiesbaden
+und so weiter und so fort, das kriegt dann wirklich
+nur der Kunde oder
+die
+Subunternehmer, die in Ausführung
+Wiesbaden oder Hamburg fahren, also was
+anderes, dass die HKB
+nochmal irgendwo anders kommt, ist relativ unwahrscheinlich.
+Dazu habe ich
+eine Frage und zwar so
+ganz pauschal,
+wie weit fangt ihr sowas auch ein, wo
+ihr sagt halt, ja, das ist zwar
+irgendwie, der Kunde hat
+eine klare Vorstellung, aber ihr
+habt eine leichte Variante
+davon schon x-mal gemacht und sagt
+halt, ey, lass uns das
+doch lieber so machen, also geht ihr da wirklich 100%
+auf den Kunden ein oder gibt es schon Fälle, wo er sagt,
+halt, ja, das verstehen
+wir in diesem Wunsch, aber wir bieten
+dir eine Alternative an, die wir halt schon x-mal gemacht
+haben, die für uns jetzt einfach auch einfacher im
+Prozess ist, umzusetzen, halt, weil
+es dann nicht nochmal diese x-mal
+noch gibt, also gibt es da irgendwie so eine,
+schon so ein Einfangen, sag ich jetzt mal,
+oder ist da was?
+Das ist natürlich das Ziel.
+Ja, also das ist natürlich das Ziel, weil
+jedes Mal, wenn wir was Neues machen, ist
+der Preis natürlich dann entsprechend
+höher, weil die Wahrscheinlichkeit,
+dass es nur für einen Kunden ist, relativ
+hoch ist, müssen Werkzeuge gemacht werden,
+etc. pp., also
+da ist der Preis dann durchaus höher, als wenn wir,
+ich sag mal, einen Standard von uns anbieten können.
+Das können wir allerdings nicht
+leisten,
+mit einer kleinen Einschränkung.
+Dafür ist eigentlich der
+Angebots- und Auftragsmanager
+da. Also der sollte
+dem Verkäufer sagen, Mensch, da haben wir was,
+nehmt doch lieber das, oder der Kunde
+hat xy beim letzten Mal das und
+das bekommen, wäre das nicht auch was
+für den Kunden. Es gibt aber durchaus
+Themen, wo ich sagen muss,
+ja, da müsste man
+sich einfach mal auch
+prozesspartnerübergreifend zusammensetzen
+und sagen, da brauchen wir eine
+geregelte Vorgehensweise, die wir dann auch nicht haben.
+Zum Beispiel bei dem Thema USB-Steckdosen.
+Also die Wahrscheinlichkeit, dass
+eine USB-Steckdose,
+KSW zu USB-Steckdosen
+so nochmal kommt, für
+einen anderen Kunden, ist sehr unwahrscheinlich.
+Und somit haben wir
+eigentlich eine relativ geringe
+Wiederverwendung von Maßnahmen.
+Also in dem Fall komplett
+sinnlos eigentlich.
+Und ich, da kann mich
+der Kunde gerne korrigieren, bin der Meinung,
+dass wenn wir da generell
+ein Prinzip hätten, wo der
+Kunde, ich sag mal einfach sagen möchte,
+möchte an der Sitzreihe, an der Sitzreihe,
+an der Sitzreihe eine USB-Steckdose haben,
+wo die sitzt, ist mir prinzipiell
+egal, weil ich kann mir nicht vorstellen, dass der Kunde
+darauf besteht, dass die
+Dose jetzt genau zwischen den Sitzen oder
+am Fensterholm oder wo auch immer
+sitzt, der möchte, dass der Kunde
+eine USB-Steckdose hat. Also ich glaube,
+da geht beratungstechnisch
+wesentlich mehr.
+Aber ja, klar, auch wenn wir einen
+KSW haben, der in ähnlicher Form
+schon mal umgesetzt worden ist,
+nehmen wir das Telefon in die Hand und telefonieren
+mit dem AM und sagen, Mensch,
+wäre das nicht was
+für einen Kunden, das haben wir schon mal umgesetzt,
+da brauchen wir nichts Neues machen. Also ja, sowohl
+als auch.
+Super.
+Wollen wir vielleicht langsam mal den Schwenk
+machen in Richtung,
+wo drückt denn der Schuh besonders
+viel? Also das ist ja jetzt schon super viel gezeigt.
+Einblicke in die Arbeitsweise
+und wir haben schon auch
+das Thema SURAZ ja auch schon so ein bisschen
+skizziert, aber vielleicht kann man das nochmal ein bisschen tiefer legen.
+Wo es denn da besonders weh tut
+und wo besonders viel Zeit drauf geht und
+vielleicht besonders viel Abstimmung erfolgen muss.
+Genau.
+Also ich
+hatte den Fall, wo hatte ich den denn?
+Also das Problem ist
+generell bei
+neueren KSWs, also
+ich weiß nicht, es wird euch mit Sicherheit
+schon wer gesagt haben, wir haben
+noch einen Angebotsprozess, der
+dem Auftragsprozess vorhergelagert ist.
+Dort werden unbekannte
+KSWs in der Entwicklung angefragt, ob
+möglich und am Ende muss das natürlich
+auch mit dem Preis
+datiert werden, damit der Kunde weiß, was
+muss er denn dafür bezahlen. Und diese
+Informationen, die im
+AKT abgefragt
+wurden,
+diese wieder transparent zu machen für
+dann den Auftragsarbeit
+Mitarbeiter, der dann an den Auftrag
+angeht, das ist wirklich
+eine Vollkatastrophe, weil
+es gibt ja durchaus Kunden, wie in dem Fall
+Schweden, die mehrere Fahrzeuge bekommen
+und dementsprechend auch mehrere AKTs laufen haben.
+Und da die passende AKT-Anfrage
+zu finden, ist
+wirklich schwierig, weil die Kollegen teilweise
+das über Telefon
+abklären. Das heißt, es gibt irgendwo
+die Informationen, aber die sind für mich nicht abrufbar.
+Es sei denn, ich finde zufälligerweise
+das richtige AKT, die richtige AKT-
+Anfrage, die damals gestellt wurde, dann gibt
+es die Möglichkeit, das über AKT Lite abzufragen.
+Das heißt, auftragslos gelöst
+kann der Vertrieb,
+ich glaube, bis zu vier KSWs
+in eine einfache Konfiguration,
+reinballern und zu uns schicken und wir
+prüfen das dann halt ab, ob das möglich ist.
+Es gibt
+die Möglichkeit, das über Mail zu machen, also
+wirklich unendlich viel. Und diese Informationen,
+die gehen meist dann irgendwann im Laufe
+der Zeit verloren, gerade weil der Kunde
+jetzt zum Beispiel Anfang des Jahres das AKT
+hatte und jetzt bei uns im Auftragsfall
+kommt. Das heißt, da liegt
+dann auch mal locker ein halbes Jahr zwischen
+und dann da die Informationen wieder
+sichtbar zu machen, ist wirklich
+nicht einfach.
+Wüsste ich jetzt aber auch keine
+Lösung, also könnte ich jetzt auch nicht sagen,
+wie man das macht, außer dass man die
+miteinander verknüpft.
+Die rein theoretische
+Möglichkeit gäbe es, aber
+da arbeitet halt auch jeder anders.
+Also jetzt irgendwelche
+Informationen, zum Beispiel hier
+sehen wir eine Luftansaugung, Zusatz
+Heizgericht verlegt.
+Das heißt, der möchte
+einen Teil von der Serie anders haben,
+sagen wir es mal so. Will er bestimmt aus
+gutem Grund haben, Schweden ist kalt etc.
+pp. In dem Fall möchte er keinen
+Staub auch angesaugt haben.
+Also da jetzt die Information
+zu finden, ist
+nicht ganz so einfach.
+Aber ich habe kurz
+noch was zu fragen.
+Oliver, hau raus.
+Ich wollte nur noch mal kurz fragen, Begrifflichkeit.
+AKT und AKD.
+Kannst du das nochmal erläutern?
+AKT wäre
+tatsächlich
+die Angebotsanfrage,
+zu diesem Auftrag.
+Also wenn ich jetzt,
+ich kopiere mal ganz kurz die Nummer,
+wenn wir Glück haben,
+dann gibt es dazu auch ein AKT.
+Also ja, gibt es sogar.
+Also wir sehen hier einmal den Auftrag,
+das war da, wo wir gerade drin waren.
+Und dann gibt es mit der gleichen Nummer nicht CSR,
+sondern AKT. Und das wäre dann halt
+die Angebotsanfrage,
+die in dem Fall
+Anfang des Jahres gelaufen ist und das
+sähe so aus. Eigentlich
+sollte das 1 zu 1
+so aussehen, wie der Auftrag.
+Also wenn jetzt nicht irgendwelche Ablehnungen
+vom Fachteam da drin sind.
+Das ist das, was der Kunde
+haben möchte. Da kann natürlich noch durch technisches
+Gespräch mit dem Kunden noch andere Sachen
+hochkommen, die noch mit rein sollen.
+Aber der Großteil der KSWs,
+die hier im AKT schon abgefragt wurden,
+sollten auch im Auftrag dann wieder
+sich wiederfinden. Es sei denn, der Kunde sagt
+natürlich, das ist mir zu teuer, das will ich nicht haben oder
+brauchen wir doch nicht oder hat sich bei uns
+intern geändert oder wie auch immer.
+Und hier steht uns auch die Information,
+weil die ist nämlich damals
+angefragt worden im
+AKT.
+Das heißt aber, die Überprüfung
+macht dann die Entwicklung, oder? Also der Vertrieb,
+der bekommt jetzt einen neuen Kundenauftrag,
+ihr kennt den Auftrag nicht und es wird
+dann eine Angebotsanfrage
+praktisch an den oder
+an die Entwicklung geschickt, dass die erstmal
+überprüft, möglich oder nicht möglich.
+Das geht auch wieder über
+uns, über KSW Leitstatt.
+Das heißt, ihr seid dann auch mit der
+Delegation verantwortlich.
+Genau. In dem Fall gibt es,
+ist es ein bisschen was anderes, weil
+da geht es wirklich nur um Preis
+und um Baubarkeit. Also nicht um die
+Umsetzung, wie wird es umgesetzt, sondern
+nur um die Preis und um
+die Baubarkeit. Und deswegen
+der Vertrieb, das sieht man hier an dem
+GV, das heißt geprüft Vertrieb,
+das heißt, der weiß, hat damit bestätigt
+mit dem Haken GV,
+da wissen wir, dass das
+technisch umsetzbar
+ist.
+Und es geht über, also Vertrieb,
+Leitstatt, Entwicklung und dann zurück
+an Vertrieb, dass er das dann dem Kunden
+zurückmeldet?
+Erst wieder über uns zurück, ja.
+Und dann wieder Richtung Vertrieb. Also
+quasi genau wie beim Auftrag, nur
+das zeigt von der Menge her nicht so viel
+ist, wie beim Auftrag. Also
+sprich, wir haben ja relativ viel,
+was wir technisch kennen und dem
+zufolge dann auch nicht nochmal neu bewertet werden
+muss von den Fachteams. Das sind
+eher so Einzelthemen,
+wie hier unten diese vier Sachen, die dort
+angefragt wurden und
+irgendwelche technischen Nebenleistungen.
+Der Kunde möchte eine Bestuhlungszeichnung haben,
+der Kunde möchte eine Information
+zur Batterie haben. Das sind
+so diese klassischen technischen Nebenleistungen,
+die er dann im Rahmen seiner Ausschreibung
+abfragt.
+Also praktisch ein gestreamter
+Auftragsprozess, weil
+der einfach nur zwei Kriterien beinhaltet
+im Sinne von, passt es preislich
+und ist er baubar. Okay, verstanden.
+Genau.
+Und da sind natürlich dann solche neuen Sachen,
+wie in dem Fall die Luftansaugung, die wir gerade
+auch im Auftrag wiedergefunden haben.
+Und da steht
+hier zum Beispiel drin,
+die beschriebene Verlegung wurde
+zuvor überprüft und ist nicht geeignet,
+daher ist die Anforderung nicht
+darstellbar.
+Im Idealfall
+hätte der Vertrieb den
+KSW schon rausschmeißen müssen.
+Weil er die Rückmeldung ja schon
+bekommen hat,
+dass das nicht baubar ist.
+Über die AKT-Anfrage.
+Und wie wir jetzt hier sehen,
+ist halt
+diese Luftansaugung trotzdem
+im Fahrzeug drin.
+Ich würde natürlich jetzt
+das Fachteam nicht angelegieren
+und nochmal beauftragen, das zu prüfen.
+Weil wenn es ganz blöd läuft,
+sitzt ein anderer Kollege dran und bearbeitet das
+und macht sich auch nochmal die Mühe und recherchiert
+und verbringt da eine Stunde oder zwei Stunden
+mit oder auch mehr
+und sagt uns dann, nee, ist nicht baubar.
+Das heißt,
+in dem Fall muss ich halt
+auf die Recherche gehen und die erste
+Möglichkeit wäre dann halt über die
+AKT-Anfrage und gucke erstmal, ist das Thema
+denn schon mal über AKT angefragt worden,
+also über den Angebotsprozess
+angefragt worden.
+In dem Fall ist es das, ich habe Glück
+und kann das halt dementsprechend
+gleich ablehnen.
+Mhm.
+Okay.
+In Anbetracht der Zeit, wir haben jetzt leider
+nur noch
+knapp 20 Minuten hier im Meeting, aber du hast
+uns so, also vor allen Dingen,
+ich habe das mit dem,
+also das mit der Angebotsanfrage
+et cetera, das hatten wir so gar nicht richtig
+auf dem Schirm tatsächlich,
+aber wir würden trotzdem sehr gerne einmal
+verstehen, was denn deine
+größten
+Pains in Bezug auf die Suche sind
+und in einem zweiten Schritt, dazu kommen wir
+hoffentlich noch hier in dem Termin,
+was denn deine Wünsche und Vorstellungen
+in Richtung einer Prozessverbesserung
+sind. Genau.
+Aber wir haben jetzt einmal aufgeschrieben,
+Pain Punkt Nummer eins ist tatsächlich
+einfach, dass es ja nicht dokumentiert
+wird, was alles während
+dieser AKT-Phase abgefragt
+wird. Da gibt es einfach nichts,
+was du direkt abrufen kannst, einsehen kannst.
+Das ist ein Pain. Doch, das geht schon,
+also wir kriegen ja, also wir haben ja jetzt
+den direkten Bezug über die Nummer. In dem Fall
+ist es, ich sage mal, gut gelaufen, weil
+ich die Informationen dort schon bekommen habe,
+aber es gibt durchaus Informationen, die
+sich ein bisschen weiter verzweigen, die
+vielleicht von einem anderen Kunden schon mal angefragt wurden,
+und da muss ich natürlich dann etwas
+tiefer in die Recherche reingehen.
+Jetzt haben wir
+bei der Recherche natürlich das Problem,
+ich habe euch ja die Maske gezeigt,
+dass wir
+hier einmal über
+das Dokument
+über die HKB 103 auf
+Mannheim das Ganze reduzieren können,
+dass wir hier über das Baumuster
+quasi das Baumuster reduzieren
+können, das heißt, er sucht auch wirklich nur,
+macht die Suche halt schneller,
+er sucht halt wirklich nur
+in dem Baumuster.
+Das ist individuell,
+das heißt,
+ich weiß, dass zum Beispiel am Fahrerarbeitsplatz
+ist es völlig egal, was da für ein Bus
+hinterhängt, ob das ein Gelenk, ob das ein E-Citaro,
+ob das ein Diesel, ob das
+XYZ ist,
+der Fahrerarbeitsplatz sieht immer gleich aus,
+das heißt, dort bräuchte ich die Suche auf
+den Gelenk nicht einschränken,
+in dem Fall bei
+TFT, bei USB-Steckdosen
+würde ich es sogar einschränken
+auf
+das Gelenkbaumuster,
+damit ich auch nur die relevanten
+KSWs angezeigt kriege.
+Damit fische ich schon eine ganze Menge raus,
+also gerade wenn ich jetzt nach
+nach dem
+Upsa,
+wenn ich jetzt nach dem
+TFT
+Fabrikaten suchen würde,
+das ist jetzt ein relativ seltenes,
+da wird wahrscheinlich auch wenig angezeigt werden,
+das heißt, hier würde jetzt die Suche
+schon reichen,
+aufgrund meiner Erfahrung weiß ich,
+dass da nicht viel rausgeschmissen wird,
+da haben wir dann am Ende vielleicht 10 KSWs,
+die da rausgeschmissen werden.
+Hier oben über die Filterfunktion kann ich mir dann
+nochmal die rausfiltern,
+wo hier
+Coderegel und Baumuster gültig ist,
+oder über
+den Fall, da könnte ich mir
+die
+Baumuster
+alles anzeigen lassen, genau.
+Und was haben wir hier,
+das wären die fünf ungültigen,
+also ich kann hier oben über die Reiter, kann ich mir schon quasi
+gewisse Filter anwenden
+für die Suche.
+In dem Fall würde ich mir einfach
+alles anzeigen lassen und könnte dann,
+ich sage mal, das ist überschaubar,
+dort müsste ich dann quasi wirklich
+13 KSWs lesen,
+um zu überprüfen, ob die technisch
+vielleicht identisch sind.
+Und das heißt, du musstest dann alle
+manuell durchklicken, überprüfen?
+Ja, in dem Fall ist es
+einfach, weil hier sehe ich
+EBM Fahrgastzählung, kommt nicht in Frage,
+das ist auch Fahrgastzählung. Okay, die Kurzbeschreibung hilft dir da.
+Hilft mir dann schon, aber das ist
+jetzt auch ein dankbares Beispiel, also wenn ich
+jetzt zum Beispiel mal
+unser
+Wald und Wiesen TFT nehme
+und hier Larvo eingebe
+und dann vielleicht noch
+18 Zoll,
+also die 18 eingeben würde, dann würde
+das Ganze schon anders aussehen,
+auch wenn ich es jetzt aufs Baummuster beschränkt habe.
+Haben wir jetzt
+46, die rein theoretisch
+alle in Frage kommen würden.
+Wenn ich nicht
+weiter die Suche einschränken würde,
+also keine Ahnung,
+was in den möglichen
+KSW drinsteckt, kann die Position,
+der Winkel, wie der Monitor angehängt wird oder so,
+die würde ich dann natürlich weiter spezifizieren
+und dann immer weniger Ergebnisse dann
+in der Suche auch angezeigt
+bekomme, ja.
+Und das wären jetzt wirklich
+46, ich habe jetzt mal hier die gesperrten
+Maßnahmen rausgenommen, wären jetzt wirklich
+einiges an Maßnahmen, die in Frage
+kommen würden und ich sage mal,
+wenn ich jetzt neuer Mitarbeiter wäre, würde ich
+wahrscheinlich sogar eins zu eins
+gegenlegen und prüfen, ob das
+technisch identisch ist, ja.
+Da weiß ich nicht, ob ich das
+als neuer Mitarbeiter überhaupt kann,
+beurteilen, ob das technisch identisch ist oder ob
+ich wirklich nur darauf achten kann, ob das
+der Text eins zu eins
+identisch ist.
+Und das würde dann halt auch hier,
+hier funktioniert das natürlich auch,
+das ist jetzt ein blödes Beispiel, aber wenn ich jetzt hier auf
+die zweimal
+TFT gehen würde,
+würde dann hier mit dem Delta Vertriebstext,
+würde er mir das natürlich dann
+auch wieder anzeigen.
+Die Unterschiede.
+Aber ich muss halt
+wirklich viel lesen.
+Also gerade ein vernünftig
+funktionierender Vergleich
+innerhalb von SAP
+Vertriebstext zu Maßnahme
+wäre schon sehr, sehr hilfreich, ja.
+Vertriebstext
+zu Maßnahme, okay.
+Also das heißt, die Verknüpfung da auch
+zu haben? So wie hier,
+an sich ist dieses Fenster
+ja wirklich super. Ich könnte jetzt auch
+in die Bearbeitung gehen und könnte die Fenster
+nebeneinander liegen und könnte da sogar drin
+schreiben in dem Maßnahmetext.
+Also das könnte ich tun, aber dadurch, dass
+dieser Vergleich per se schon
+unbrauchbar ist, also ich vergleiche
+hier quasi Äpfel mit Birnen,
+muss ich mir den Text durchlesen.
+Weil hier wäre jetzt
+alles blau. Und das ist leider
+nicht nur bei komplett unterschiedlichen
+KSWs so, sondern wenn die
+in einer unterschiedlichen Reihenfolge sind, wenn irgendwo
+ein Leerzeichen mehr drin ist, ein Doppelpunkt
+mehr oder ein Spiegelstrich mehr,
+dann schmeißt er mir
+in der Regel schon alles
+blau raus.
+Ja. Es gibt Kollegen, die
+helfen sich mit einem externen Programm,
+halte ich aber nicht für zielführend,
+weil ich will nicht das nächste Programm
+aufhaben und da Textvergleiche
+durchführen. Im Idealfall
+funktioniert es innerhalb von SAP.
+Weißt
+du vielleicht, welches
+externe Programm die da nutzen?
+Boah, ich
+kann mal ganz kurz, wenn da ansprechbar
+ist, den Tobias Patuschka fragen, weil
+der nutzt das nämlich.
+Mit dem hatten wir ja schon mal gesprochen.
+Aber dann, also ich würde sagen,
+wir lagern das nach, weil
+ich möchte viel eher verstehen, was du dir
+wünschst. Und was mit Tobias ist, das
+fragen wir dann einfach anschließend nochmal nach.
+Ja. Perfekt. Also
+das wäre jetzt so eine klassische
+Suche, wo ich mir eine bessere
+Vergleichsfunktion
+wünschen würde. Was noch?
+Ich kann nicht nach
+identischer Zeichenreihenfolge
+suchen. Also wenn ich jetzt
+ich sag mal, ich möchte
+eine Richtungsanzeige
+haben,
+das ist ein blödes Beispiel, da fällt natürlich
+jetzt trocken nichts ein, aber es gibt
+Beispiele, wo ich wirklich
+mehrere Wörter
+hintereinander anhänge und ich möchte genau
+in der Reihenfolge die Wörter,
+nicht in der Reihenfolge, sondern
+die Gesamtheit der Wörter
+suchen. Ja, also mehr
+Suchkriterien verknüpfen und dass
+du dann ein Ergebnis
+rausgespuckt bekommst.
+Okay. Genau. Das heißt, ich möchte
+nicht, dass irgendwo in dem
+KSW-Text der
+steht, weil ich nach
+Richtungsanzeige des
+Vorderwagens oder so,
+das ist ein blödes Beispiel, aber
+danach suchen wir nicht. Aber wenn
+ich jetzt suchen wollen würde nach
+Richtungsanzeige
+des Vorderwagens und ich möchte
+genau nach diesem Ausdruck suchen und ich würde
+Richtungsanzeige des
+und Vorderwagen angeben, dann zeigt er
+mir auch KSWs
+unter Umständen vom Hinterwagen an, weil
+irgendwo anders in dem KSW-Text noch
+Vorderwagen steht. Also ich möchte diese
+klassische Ausklammerung, also
+Häkchenfüßen oben,
+den gesuchten Satz und
+Häkchenfüße oben und dann soll
+er wirklich diesen Ausdruck suchen und
+die Funktion gibt es meines Wissens
+nicht.
+Ja, das haben wir tatsächlich auch
+schon von Tobias.
+gesagt bekommen.
+Ja.
+Da müsste ich auch ein besseres Beispiel haben,
+weil das hat, da wüsste
+ich jetzt so ad hoc kein Beispiel,
+aber es kommt des Öfteren vor, weil es
+mich halt dann auch an der Stelle nervt, ja.
+Ja.
+Weil, also das heißt, du kannst dann immer nur
+einen Begriff einpflegen, danach suchen
+und dann musst du wieder neu starten, musst dir dann
+praktisch auch merken, was du davor schon
+irgendwie an Ergebnissen rausbekommen hast,
+suchst dann wieder basierend darauf
+neu.
+Aber ich weiß halt
+mittlerweile, wie ich zu suchen habe, um
+zum Ergebnis zu kommen. Das heißt nicht, dass ich zu dem
+gewünschten Ergebnis komme,
+aber es gibt durchaus,
+die Wahrscheinlichkeit
+ist höher, sagen wir es mal so.
+Also ich weiß dann schon, nach welchen
+Suchbegriffen ich suchen muss.
+Ich weiß auch nicht, ob
+meine Kollegen das genauso tun
+in der Tiefe oder ob die sagen, wenn kein Index
+drauf, dann schreibe ich generell was Neues raus,
+so sollte es eigentlich nicht sein.
+Normalerweise sollen wir halt
+auch unabhängig vom Index
+nochmal suchen, weil
+die Maschine ist auch nur so schlau, wie sie programmiert
+wurde. Das heißt,
+wir suchen schon relativ
+viel, finden aber relativ wenig.
+Das ist vielleicht so
+der Tenor, ja.
+Weil irgendwann sprengt natürlich
+auch die Suche
+das gewünschte Ergebnis. Also wenn ich
+jetzt als hochbezahlter Mitarbeiter
+zehn Stunden lang
+nach einem KSW suche,
+ist es vielleicht auch schneller,
+das Thema mal hochzudelegieren
+und dann eine Rückmeldung vom Fachbereich
+zu bekommen, weil der es sofort
+weiß, weil das ist ja sein Fachbereich, der kann
+das wie aus der Pistole beschossen sagen.
+Also entweder ich telefoniere mit dem Kollegen oder
+ich delegiere es ihm hoch, wie auch immer
+und er sagt dann,
+Mensch, da war doch was und
+guck mal hier, die und die HKB an, die kannst du
+verwenden. In der Regel sollten wir im
+Leitstand aber selber schon
+dahin kommen. Manchmal
+funktioniert es halt nicht.
+Also eins hier sollte es ja auch tatsächlich sein,
+dass ihr keine Workarounds habt. Das heißt,
+also ihr solltet ja in eurer Arbeit,
+also natürlich ist Faktor Mensch immer
+einer der größten Rollen
+und vor allen Dingen auch das wertvollste, würde ich sagen,
+aber trotzdem solltest du ja deine
+Arbeit machen können, wenn beispielsweise
+dann eben das Fachteam nicht
+krank ist oder eben halt nicht direkt
+ansprechbar ist, dass du das dann auch
+eigenständig schnell herausfinden kannst.
+Ja.
+Genau.
+Okay.
+Ansonsten, also wie gesagt,
+dazu ist man vielleicht auch zu
+betriebsblind. Ich nutze die Suche jetzt halt
+schon seit Jahren und habe mich
+damit abgefunden. Ich weiß ehrlich gesagt nicht,
+wie es besser geht. Also außer die Vergleichsnutzung,
+die man vielleicht besser hinbekommt.
+Ich befürchte fast, wenn
+man sie in SAP hätte besser machen können,
+dann hätte man das auch gemacht, aber
+das mag ich nicht zu
+beantworten.
+Aber ich glaube gerade für
+neue Mitarbeiter
+ist das natürlich
+schon eine Hürde, da mit der Suche
+irgendwas zu finden.
+Ja. Also das Thema
+Business Management.
+Warum findest du Genie besser?
+Vielleicht auch da direkt, weil
+ich hatte das oder wir hatten das eher so verstanden,
+dass Genie ja eigentlich ein Abbild von SAP
+darstellt. Tatsächlich ja sogar mit
+einem Tag Verzug oder
+einer Nacht Verzug.
+Was macht Genie besser, weil es
+da eine Suchfunktion gibt?
+Ich wollte gerade sagen, ich kann gerade,
+wenn es um
+Bauteile geht, die ja bei uns
+textlich nicht beschrieben sind.
+Also der sagt, er möchte die Antenne,
+Fabrikat so und so, Typ so und so
+und entwicklungsseitig wird ja dann aber
+ein EB drangehängt und eine A-Sachnummer,
+wo ein direktes Bauteil hintersteht.
+Das heißt, wenn ich mir jetzt ein Bauteil angucken möchte,
+dann gehe ich über die Genie-Suche
+und
+lasse mir dann die relevanten Informationen
+anzeigen. Vielleicht auch
+mal von den türkischen Kollegen oder von den Ulmer
+Kollegen, dass da vielleicht mal was
+verbaut wurde oder wenn
+für uns unbekannter TFT, der vielleicht
+bei den Kollegen schon mal verbaut werden könnte,
+dass ich mir den zumindest mal angucken kann, weil
+bevor ich im Internet recherchiere, schaue ich es mir dann halt
+über Genie mal an, ob wir da schon mal
+was verbaut haben. Also ich glaube,
+gerade für die Suche oder
+ältere Aufträge,
+die man sich mal anschauen möchte, die
+jetzt nach Schweden gegangen sind
+zum gleichen Kunden,
+da nutze ich schon
+sehr viel dann auch die Genie-Suche.
+Ja.
+Und die nutzen
+auch nicht alle Kollegen. Also ich weiß,
+dass der Gerd Grünbauer die auch noch benutzt.
+Ich weiß nicht, inwieweit die von den anderen
+Kollegen benutzt wird. Was ich auch
+nachvollziehen kann, weil irgendwann ist halt auch mal gut
+gewesen mit den tausend unterschiedlichen
+Systemen. Ja, ich glaube,
+das ist einer der größten Pains, dass einfach
+unterschiedlich gearbeitet wird.
+Ja. Auch die Insellösung
+in den einzelnen Teams, die dann auch noch oben
+drauf kommen, was jetzt nichts
+mit unserer Arbeit zu tun hat,
+aber indirekt vielleicht doch
+mit unserer Arbeit zu tun hat und dann müssen wir
+mit Access-Datenbanken, mit Excel-Tabellen,
+also jeder Art
+von Informationen müssen wir dann arbeiten
+und das ist halt wirklich nicht
+effektiv.
+Ja. Und also das, was
+wir bisher durchweg mit
+allen so Gesprächspartnern
+zugeteilt bekommen haben, ist, dass eure
+Arbeit ja unglaublich erfahrungsbasiert
+ist. Das heißt, das Thema Wissensmanagement
+ist ja wirklich einfach ein
+Risikofaktor hoch 100,
+weil wenn du jetzt beispielsweise mit
+deinen, du hast ja gesagt, du bist seit
+14 Jahren sogar mit dabei, also über
+zehn Jahre. Das, was
+du dir da, glaube ich, angeeignet hast, das ist halt
+nicht so leicht, wieder in das Unternehmen
+reinzuholen, wenn, keine Ahnung,
+jetzt jemand Neues anfangen sollte,
+den dann anzulernen. Der Kai
+hat uns gestern oder vorgestern auch
+eine Zahl genannt mit, es braucht mindestens
+drei Jahre stupide
+Leitstandarbeit, damit man
+überhaupt auf dem minimalen
+Erfahrungsstand eines erfahrenen
+Leitstandmitarbeitenden ist.
+Ja. Also in der
+Regel geht es sogar, und das spielt natürlich,
+das habt ihr ja am eigenen Leibe erfahren
+müssen, wie komplex dann auch der
+AAP ist mit den einzelnen Q-Gates,
+mit den einzelnen
+Stati, die es im Laufe eines
+kompletten Durchlaufs eines Fahrzeuges gibt.
+Das ist nicht einfach zu verstehen,
+also selbst ich bin jetzt, ich muss
+mich korrigieren, ich bin seit elf
+Jahren im Betrieb, aber seit fünf Jahren im
+KSW-Leitstand, also ich habe vorher noch woanders
+gearbeitet, war aber vorher schon mal zwei,
+drei Jahre im Leitstand, also ich wusste schon, was
+auf mich zukommt, als ich da hingegangen bin.
+Und ja, das ist
+gerade der Wissenstransfer ist
+halt eine
+undankbare Arbeit, weil wir halt
+wirklich nur über den
+Bemerkungsfeld Leitstandtext arbeiten
+können, innerhalb von, und
+die Zeit muss man sich nehmen, und die
+Zeit, und da wische ich mich leider selber auch
+ab und zu, die Zeit hat
+man einfach ab und zu auch nicht.
+Und dann geht die Information beim nächsten
+Mal verloren.
+Wir sind aber grundsätzlich bemüht,
+genau diese Information dann auch weiterzugeben.
+Das geht dann so weit,
+wo hatte ich es gerade,
+bei der Anzeige glaube ich,
+dass ich
+Informationen,
+da war es nicht,
+dass ich Informationen bezüglich
+für Baumustern
+so und so, die HKB für
+Baumuster so und so, die HKB,
+also dass ich die Informationen da schon mit
+reinschreibe.
+Das gewöhnt man sich an. Oder wenn
+was gesperrt wurde, warum wurde es
+gesperrt, dass die Information nicht
+flöten geht. Und vor allen Dingen immer mit Datum,
+weil was vor vier Jahren oder fünf Jahren
+mal abgelehnt wurde, muss ja jetzt nicht mehr abgelehnt werden.
+Also das muss man dann auch immer so persönlich ein bisschen
+abwägen, und da kommt wieder die Erfahrung ins Spiel,
+die persönliche Erfahrung.
+Also das ist
+schon sehr, sehr komplex. Ich beneide
+niemanden, der bei uns anfängt, der muss schon
+leidensfähig sein.
+Aber das ist wahrscheinlich überall
+so.
+Okay, das heißt, also wir haben
+einfach Prozess verstanden.
+Ich würde ganz, ganz, ganz
+vorsichtig so aussprechen,
+wir haben vielleicht ansatzweise
+verstanden, welche tägliche Arbeit
+du da leistest. Weil ich glaube, da wirklich
+dann den hundertprozentigen Überblick
+zu bekommen, das ist unmöglich.
+Aber
+vielleicht eine abschließende
+Ausblicksfrage. Ich hatte ja schon
+zu Beginn angeteasert,
+dass wir ja auch in Richtung
+des Splitens von KSW,
+KSW-Texten denken.
+Also einfach dann einen KSW-Text
+zu nehmen und den dann in verschiedene Elemente
+einmal aufzuteilen, zu
+trennen, wie man es auch immer nennen mag.
+Glaubst du, das ist
+eine realistische Überlegung? Würde euch
+das helfen? Weil das würde
+ja dann praktisch die Suche erleichtern,
+weil man dann konkret nach bestimmten Elementen
+suchen könnte. Wie schätzt du das
+an sich ein?
+Das heißt, der KSW-Text
+per se ist noch
+am Stück, aber er wird in der Suche
+geklustert oder wird er generell
+aufgespalten?
+Also der wird ja dann praktisch trotzdem
+als ein zusammenhangender
+Text eingetippt. Also das bleibt
+ja dann wahrscheinlich auch so bestehen.
+Aber dass dann beispielsweise eine KI
+das Ganze in Bausteine zerlegen
+kann. Dass er dann halt gezielt
+nach diesen Bausteinen suchen kann.
+Schwierig zu
+beantworten, weil wir ja
+immer den gesamten KSW auch betrachten
+müssen. Also selbst wenn ein Teil
+übereinstimmt, ist es für
+uns, glaube ich, nicht relevant,
+weil am Ende der gesamte Text stimmen muss.
+Ja.
+In Bezug auf
+Referenz vielleicht, dass man sagen kann,
+anhand des Bruchstuckes habe ich halt
+die und den KSW gefunden und daran kann ich
+mich entlanghandeln und einen neuen KSW
+raus schreiben. Vielleicht, aber
+für die, also auf
+Umsetzungsebene würde ich fast
+sagen, nein, würde uns das
+bei den Elektriker
+anders,
+weil die halt
+wesentlich mehr Bauteile in so einem KSW
+verhackstückeln. Da macht es vielleicht
+mehr Sinn, aber aufbauseitig
+würde ich da fast sagen, nein.
+Ja, der Tobias hat uns nämlich auch schon
+mal gefeedbackt, dass das gesamte
+Bild super wertvoll ist
+und ihr ja wirklich dann aufgrund des
+gesamten Bildes dann eure
+Bemerkungen eintragt.
+Ja, aber
+schon mal sehr gut, das dann auch
+deinerseits einmal
+zu wissen.
+Ja, wir haben jetzt
+nur noch drei Minuten im Termin. Vielleicht etwas,
+was dir noch auf dem Herzen liegt, was du uns
+sehr gerne noch mitteilen möchtest, was wir vergessen
+haben.
+Also da machen wir es glaube ich kurz.
+Wenn mir noch was einfallen würde,
+würde ich mich vielleicht im Nachgang
+nochmal melden, sei es über E-Mail oder
+wir sprechen nochmal kurz, weil
+so ad-hoc, das ist halt immer so eine
+Situation, in der man sich gerade befindet, wo man
+sich darüber aufregt, dass es halt so ist, wie
+es ist.
+Im Ärger dann aber auch schon wieder,
+ich sag mal, den nächsten Tag vergessen hat, weil dann
+der nächste Ärger vor der Tür steht. Also das
+ist wirklich sehr situationsabhängig und wenn
+so eine Situation kommt, dann muss ich mir halt
+angewöhnen, einfach mal ein Stichwort, Zettel
+zu machen, wo ich dann drauf schreibe, so das und das hat mich
+jetzt tierisch genervt, ja.
+Thomas, Vorschlag, also
+wir sind sehr gerne dein Tagebuch, das
+heißt, falls irgendetwas während deiner
+täglichen Arbeit gerade daneben
+läuft, super scheiße läuft, dann schreib
+uns das gerne einfach. Also das
+wäre nämlich auch die nächste Frage oder die abschließende
+Frage, das heißt, dürfen wir dich
+denn auch kontaktieren, wenn wir in Richtung
+Lösung, Lösungskonzeption etc.
+uns bewegen, dass wir nochmal Rückfragen stellen,
+weil wir haben das Ganze jetzt
+so ein bisschen mitgetippert und
+die Aufnahme, wie gesagt, die verschwindet
+ja von selber spätestens nach
+zwei Wochen und falls
+wir da nochmal Rückfragen haben sollten, aber
+darüber hinaus, falls du uns noch gerne
+was mitgeben möchtest, wie gesagt, falls du in
+deiner täglichen Arbeit gerade bemerkst,
+hey, das ist in dem Interview noch gar nicht
+zu tragen gekommen, aber das möchte ich gerne noch
+loswerden, darüber werden wir unglaublich
+dankbar. Also ich glaube, jegliche Erfahrung,
+die du mitbringst in deiner täglichen Arbeit,
+das wäre super, genau.
+Sehr gerne, ihr habt ja glaube ich auch noch
+den Sven Frahm, habt ihr ja glaube ich auch noch im Gespräch.
+Genau, den haben wir auch noch. Und da habt ihr natürlich
+das geballte Wissen da, also der hat
+die ZKSW komplett mit
+selber aufgebaut, also der kann da auch
+richtig tief eintauchen,
+also der wird mit Sicherheit
+da mehr Wissen
+als ich und mehr auch dazu
+beitragen können als ich, weil der weiß,
+auch die Hintergründe, warum man so gemacht hat,
+wie man es gemacht hat.
+Also vom Leitstand sprechen wir,
+also wir haben ja jetzt mit dir gesprochen, Tobias
+war dabei, Kai war dabei,
+ansonsten haben wir vom Leitstand
+noch den Markus Knoop,
+den Sven auf jeden Fall noch
+und den Joschkun Baltar,
+also die werden wir noch aus dem Leitstand
+haben und selber konstruieren.
+Das wäre aus dem Fachbereich, der Knoop und
+der Baltar sind glaube ich schon aus dem Fachbereich.
+Ah, okay,
+also wir haben den jetzt erstmal als, okay,
+das notiere ich dann mal dazu.
+Das heißt, das sind dann schon tiefe
+Fachbereichskenntnisse, so wie es
+der Nami auch schon sagt.
+Die kriegen quasi unsere Arbeit serviert auf ihren
+Tisch, ja.
+Okay, genau.
+Zu dem weiteren Verlauf, also wir
+haben jetzt noch mindestens
+sieben Interviews oder sieben Gespräche,
+die wir noch führen werden und
+falls du Interesse daran hast,
+wovon ich ganz stark ausgehe, also alles,
+was wir dann als Ergebnis generieren,
+da kannst du
+sehr gerne auch einfach daran teilnehmen.
+Das heißt, wir können dir das dann auch nochmal zuschicken,
+aber Thema Ergebnispräsentation
+et cetera, da wird euch die Stefanie auch
+nochmal abholen und auch einladen
+mit Sicherheit. Genau, ja.
+Super.
+Alles klar, dann ganz lieben Dank
+dir, dass du dir die Zeit genommen hast,
+dass du uns da nochmal durchgeführt hast.
+Ja, dann würde ich sagen.
+Vielen Dank und euch ein schönes Wochenende.
+Habt du ebenfalls ein gutes Wochenende.
+Bis dann, ciao.
